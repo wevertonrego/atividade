@@ -40,6 +40,7 @@ Route::get('/', function () {
     	</tr>
 
     	</table>";
+        /*teste*/
 
     });
 
